@@ -1,0 +1,25 @@
+{
+  "name": "frost-chat",
+  "version": "1.0.0",
+  "description": "A real-time chat app using WebSockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therj/frost-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therj/frost-chat/issues"
+  },
+  "homepage": "https://github.com/therj/frost-chat#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
